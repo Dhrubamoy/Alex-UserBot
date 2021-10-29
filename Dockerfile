@@ -4,6 +4,5 @@ RUN git clone https://github.com/Dhrubamoy/Alex--ubAddons.git ./LEGENDUSERBOT
 RUN pip install --upgrade pip
 RUN pip3 install -r ./Alex--ubAddons/requirements.txt
 
-WORKDIR ./LEGENDUSERBOT
-
+WORKDIR ./Alex--ubAddons
 CMD ["python3", "-m", "userbot"]
