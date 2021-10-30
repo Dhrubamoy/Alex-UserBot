@@ -1,13 +1,13 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b> 『Alex-userbot』 </b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d17467283e73c884834a5.jpg" alt="LEGEND-OS">
+  <img src="https://te.legra.ph/file/eb89552deba86c3700e70.jpg" alt="Dhrubamoy-Alex-UserBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Lêɠêɳ̃dẞø† ⚡</b>
+  <b>⚡ legend in AlexBot ⚡</b>
 </h6>
 
 <h3 align="center">
